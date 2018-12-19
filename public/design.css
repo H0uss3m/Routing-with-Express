@@ -1,0 +1,7 @@
+body { background-image: url('./background.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100%;}
+nav {background-color:transparent;width: 60%; margin-left: 30%; color: blue !important; font-size: 20px;}
+.Text{color:white; font-size: 22px; width:30%; margin-left: 5%; margin-top:5%;}
+.navbar-light .navbar-nav .nav-link {
+    color: blue}
